@@ -1,0 +1,17 @@
+# 华为云区域
+region = "cn-north-4"
+
+# 项目名称
+project_name = "image-moderator"
+
+# Slack 凭据（请替换为实际值）
+verification_token = "your_slack_verification_token"
+access_token       = "your_slack_oauth_token"
+
+# 审核置信度阈值
+min_confidence = 80
+
+# 华为云凭据（用于 EI 图像审核服务调用）
+hw_access_key  = "your_huawei_access_key"
+hw_secret_key  = "your_huawei_secret_key"
+hw_project_id  = "your_project_id"

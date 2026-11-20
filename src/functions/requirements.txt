@@ -1,0 +1,4 @@
+# FunctionGraph 函数依赖
+requests>=2.25.0
+huaweicloudsdkcore>=3.0.0
+huaweicloudsdkei>=3.0.0
